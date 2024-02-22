@@ -1,0 +1,4 @@
+output "lb_dns_name" {
+  description = "arn:aws:elasticloadbalancing:us-east-1:674551683734:loadbalancer/app/tf-lb-20240222131350191200000003/e8af676d79168be2"
+  value = "tf-lb-20240222131350191200000003-306736934.us-east-1.elb.amazonaws.com"
+}
